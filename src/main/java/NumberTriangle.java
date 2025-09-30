@@ -165,6 +165,7 @@ public class NumberTriangle {
         return top;
     }
 
+
     public static void main(String[] args) throws IOException {
 
         NumberTriangle mt = NumberTriangle.loadTriangle("input_tree.txt");
